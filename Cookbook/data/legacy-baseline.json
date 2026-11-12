@@ -1,0 +1,95 @@
+[
+  {
+    "id": "original-1",
+    "title": "Orange Juice Cookies",
+    "category": "Cookies",
+    "temperature": "350°F",
+    "time": "10 minutes",
+    "ingredients": [
+      "2 cups sugar",
+      "1 cup margarine",
+      "2 eggs",
+      "1 cup milk",
+      "½ can frozen orange juice concentrate, thawed — can size to verify",
+      "4½ cups flour",
+      "2 teaspoons baking powder",
+      "Frosting: a little melted butter (quantity not specified)",
+      "Frosting: a little thawed orange juice (quantity not specified)",
+      "Frosting: powdered sugar (quantity not specified)"
+    ],
+    "steps": [
+      "Cream the first three ingredients: sugar, margarine, and eggs.",
+      "Add the remaining dough ingredients gradually.",
+      "Drop onto cookie sheets.",
+      "Bake at 350°F for 10 minutes.",
+      "When cool, frost with a little melted butter, a little thawed orange juice, and powdered sugar. Frosting quantities are not specified."
+    ],
+    "notes": "1 batch = 100 cookies.",
+    "unverified": true,
+    "favorite": false,
+    "photo": "assets/original-recipe-photo.png",
+    "yield": "",
+    "sourceNotes": "",
+    "legacyPhotoHash": "71463393916be4f95359364ffe7042b96b7fd8be705bc7040a71c222f2783747",
+    "cover": "assets/orange-juice-cookies.jpg"
+  },
+  {
+    "id": "original-2",
+    "title": "Quick Mix Spritz",
+    "category": "Cookies",
+    "temperature": "375°F",
+    "time": "10–12 minutes",
+    "ingredients": [
+      "2¼ cups flour",
+      "¾ cup sugar",
+      "¼ teaspoon baking powder",
+      "½ teaspoon salt",
+      "1 cup shortening",
+      "1 egg",
+      "1 tablespoon vanilla",
+      "Food coloring (quantity not specified)"
+    ],
+    "steps": [
+      "Cream shortening, sugar, and egg. The printed directions say “eggs,” while the ingredient list specifies 1 egg.",
+      "Gradually add dry ingredients.",
+      "When you can form a ball, add food coloring.",
+      "Press cookies onto cookie sheet.",
+      "Bake at 375°F for 10–12 minutes."
+    ],
+    "notes": "",
+    "unverified": true,
+    "favorite": false,
+    "photo": "assets/original-recipe-photo.png",
+    "yield": "5 dozen",
+    "sourceNotes": "Vanilla is listed in the ingredients; the printed directions do not say when to add it.",
+    "legacyPhotoHash": "71463393916be4f95359364ffe7042b96b7fd8be705bc7040a71c222f2783747",
+    "cover": "assets/quick-mix-spritz.jpg"
+  },
+  {
+    "id": "recipe-pancakes",
+    "title": "Pancakes",
+    "category": "Breakfast",
+    "yield": "",
+    "temperature": "",
+    "time": "",
+    "ingredients": [
+      "1 cup flour",
+      "1 cup milk",
+      "1 egg",
+      "1 teaspoon baking powder",
+      "1 teaspoon vanilla",
+      "3 tablespoons melted butter",
+      "Pinch of sugar"
+    ],
+    "steps": [
+      "Whisk all ingredients together."
+    ],
+    "notes": "When doubling, use 1½ cups flour total instead of 1 cup.",
+    "sourceNotes": "The handwritten recipe does not give cooking directions beyond whisking, or specify a cooking time or temperature.",
+    "unverified": false,
+    "favorite": false,
+    "photo": "assets/pancakes-recipe.jpg",
+    "legacyPhotoHash": "8bd92b3d2f5287204e78610ff5b126da516d5ea7349fc572eddc60e982413b31",
+    "cover": "assets/pancakes.jpg"
+  }
+]
